@@ -1,0 +1,42 @@
+
+body{
+  background-color: white;
+  color: black;
+  height: 250px;
+}
+
+
+.booklist{
+  display: grid;
+  max-width: 750px;
+  margin: 75px auto;
+  gap: 50px;
+  height: 550px;
+  
+}
+
+.book{
+
+  background-color: ghostwhite;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+  
+}
+
+.book h2{
+  margin-top: 0.5rem;
+  font-size: 18px;
+  font-weight: 200;
+  color: blueviolet;
+}
+
+.book h3{
+  font-size: 19px;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+
+img{
+  height: 250px;
+  width: 175px;
+}
